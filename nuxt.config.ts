@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
-      link: [{ rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css' }]
+      link: [{ rel: 'stylesheet', href: '//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css' }, { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }]
     },
   },
   css: ['~/assets/css/main.css'],

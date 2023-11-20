@@ -10,7 +10,7 @@
         <h2 class="font-bold text-2xl mt-10 mb-2">About this site</h2>
         <ul class="list-disc list-inside">
             <li>Hosted on Github Pages</li>
-            <li>Powered by VueJS and TailwindCSS</li>
+            <li>Powered by Nuxt.js and TailwindCSS</li>
             <li>Inspired by <a href="https://daleanthony.com" class="border-b-2 border-slate-400 hover:text-slate-100 hover:border-slate-100">Dale Anthony's Website</a></li>
         </ul>
     </div>
