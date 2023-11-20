@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "LearnFolio",
+        "img": "https://raw.githubusercontent.com/whoismidlaj/VueFolio/master/src/assets/works/learnfolio.jpg",
+        "link": "https://learnfolio.in/"
+    },
+    {
+        "id": 2,
+        "name": "Alrayah Tourism",
+        "img": "https://raw.githubusercontent.com/whoismidlaj/VueFolio/master/src/assets/works/alrayah.jpg",
+        "link": "https://alrayahtourism.in/en/"
+    },
+    {
+        "id": 3,
+        "name": "Futura Planners",
+        "img": "https://raw.githubusercontent.com/whoismidlaj/VueFolio/master/src/assets/works/futura.jpg",
+        "link": "https://futuraplanners.com/en/"
+    },
+    {
+        "id": 4,
+        "name": "Anwar Alrayan",
+        "img": "https://raw.githubusercontent.com/whoismidlaj/VueFolio/master/src/assets/works/alrayan.png",
+        "link": "https://anwaralrayan.com/en/"
+    },
+    {
+        "id": 4,
+        "name": "Next Mobiles",
+        "img": "https://raw.githubusercontent.com/whoismidlaj/VueFolio/master/src/assets/works/nextmobile.png",
+        "link": "https://nextmobile.ae/"
+    }
+]
